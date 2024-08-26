@@ -3,28 +3,26 @@
 
 # My Skillset
 
-
-
 <div style="display:flex; row-gap:5px; column-gap:50px; flex-wrap:wrap;">
 
-|                                            Programming                                            |
-| :-----------------------------------------------------------------------------------------------: |
-| [![My Skills](https://skillicons.dev/icons?i=js,ts,go,c,cpp&theme=light)](https://skillicons.dev) |
+|                                              Programming                                               |
+| :----------------------------------------------------------------------------------------------------: |
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,go,c,cpp&theme=light)](https://github.com/pro-khar) |
 
-|                                                          Developement                                                          |
-| :----------------------------------------------------------------------------------------------------------------------------: |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,nodejs,tailwind,nextjs&theme=light)](https://skillicons.dev) |
+|                                                            Developement                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------: |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,nodejs,tailwind,nextjs&theme=light)](https://github.com/pro-khar) |
 
-|                                            Databases                                             |
-| :----------------------------------------------------------------------------------------------: |
-| [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev) |
+|                                               Databases                                               |
+| :---------------------------------------------------------------------------------------------------: |
+| [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://github.com/pro-khar) |
 
-|                                                   Design/UI-UX                                                    |
-| :---------------------------------------------------------------------------------------------------------------: |
-| [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop&theme=light)](https://skillicons.dev) |
+|                                                      Design/UI-UX                                                      |
+| :--------------------------------------------------------------------------------------------------------------------: |
+| [![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop&theme=light)](https://github.com/pro-khar) |
 
-|                                                  Tools                                                   |
-| :------------------------------------------------------------------------------------------------------: |
-| [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,github&theme=light)](https://skillicons.dev) |
+|                                                     Tools                                                     |
+| :-----------------------------------------------------------------------------------------------------------: |
+| [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,github&theme=light)](https://github.com/pro-khar) |
 
 </div>
