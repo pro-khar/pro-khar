@@ -2,7 +2,10 @@
 <br/>
 <div align="center">
 
-> Hi there, I'm **Prakhar** 👋 <Br/>I love to build solutions with a keen eye for details and design.<Br/> Experienced in developing **utility-oriented web apps** and **Internal tools**
+Hi there, I'm **Prakhar** 👋 <Br/>I love to build solutions with a keen eye for details and design.<Br/> Experienced in developing **utility-oriented web apps** and **Internal tools**
+<br/>
+<br/>
+Currently, building <img src="favicon.png" width=15/> [BioQuix.com](https://www.bioquix.com/)
 
 </div>
 <br/>
@@ -31,6 +34,8 @@
 [![Database Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://github.com/pro-khar)
 
 </div>
+
+<br/>
 
 ## Featured Projects
 
