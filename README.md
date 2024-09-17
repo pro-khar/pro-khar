@@ -1,30 +1,38 @@
-# Hi there, I'm Prakhar Verma 👋
+<div style="background-color:beige; padding:2em">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+codespace!)](https://git.io/typing-svg)
+Hi there, I'm **Prakhar** 👋 <Br/>I love building solutions with a keen eye for details and design.<Br/> Experienced in developing **utility-oriented web apps** and **Internal tools**
 
-## 🛠️ Skills
+<div style="background-color:white; padding: 1em 3em 2em; border: 1px solid; border-radius:3px; box-shadow:15px 15px 0px black">
 
-### Programming
+<h2 align="center"> My Skills </h2>
 
-[![Programming Skills](https://skillicons.dev/icons?i=js,ts,go,c,cpp&theme=light)](https://github.com/pro-khar)
+<div style="display:flex; flex-direction:column; justify-content:center; align-items:center">
 
-### Development
+**Development**
 
 [![Development Skills](https://skillicons.dev/icons?i=react,redux,nodejs,tailwind,nextjs,supabase&theme=dark)](https://github.com/pro-khar)
 
-### Databases
+**Programming**
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://github.com/pro-khar)
+[![Programming Skills](https://skillicons.dev/icons?i=js,ts,go,c,cpp&theme=light)](https://github.com/pro-khar)
 
-### Design/UI-UX
+**Tools**
 
-[![Design Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop&theme=light)](https://github.com/pro-khar)
+[![Tools](https://skillicons.dev/icons?i=linux,bash,git,github&theme=dark)](https://github.com/pro-khar)
 
-### Tools
+**Design/UI-UX**
 
-[![Tools](https://skillicons.dev/icons?i=linux,bash,git,github&theme=light)](https://github.com/pro-khar)
+[![Design Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop&theme=dark)](https://github.com/pro-khar)
 
-## 🏆 Featured Projects
+**Databases**
+
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark)](https://github.com/pro-khar)
+
+</div>
+
+</div>
+
+## Featured Projects
 
 ### projectRB - Resume Builder
 
@@ -44,6 +52,4 @@
 - Extensive documentation website for Verilog HDL
 - Implements material design tactics and assistive technologies for accessibility
 
----
-
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-khar&show_icons=true&theme=radical)
+</div>
