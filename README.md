@@ -33,6 +33,10 @@ Currently, building <img src="favicon.png" width=15/> [BioQuix.com](https://www.
 
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark)](https://github.com/pro-khar)
 
+**Cloud**
+
+[![Cloud](https://skillicons.dev/icons?i=aws&theme=light)](https://github.com/pro-khar)
+
 </div>
 
 <br/>
