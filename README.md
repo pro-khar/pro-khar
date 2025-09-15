@@ -5,7 +5,7 @@
 Hi there, I'm **Prakhar** 👋 <Br/>I love to build solutions with a keen eye for details and design.<Br/> Experienced in developing **Utility-oriented web apps** and **Internal tools**
 <br/>
 <br/>
-Currently, building <img src="favicon.png" width=15/> [BioQuix.com](https://www.bioquix.com/)
+Currently, building <img src="favicon.png" width=15/> [tradintel.com](https://www.tradintel.com/)
 
 </div>
 <br/>
