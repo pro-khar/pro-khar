@@ -4,7 +4,7 @@
 
 <img src="./assets/01-about.svg" alt="01 About Me" width="100%"/>
 
-I studied Electronics and Communication Engineering at JIIT, and somewhere between wiring up sensors and building smart-home gadgets I realised I cared most about the part people actually touch: the interface.
+I studied Electronics and Communication Engineering, and somewhere between wiring up sensors and building smart-home gadgets I realised I cared most about the part people actually touch: the interface.
 
 These days I lead frontend at **[Tradyon](https://www.tradyon.ai)**, building across web and mobile, shaping the design system and working on AI features like **TradeGenie**. I also ship backend work in **Python/FastAPI** and **Go**.
 
